@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+.firstHeader{
+    width:  1440px;
+    height:  70px;
+    padding: 24px 160px 24px 160px;
+    gap: 752px; 
+}
+.firstHeader a{
+    text-decoration: none;
+    font-family: 'Kanit',  sans-serif ;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 22px;
+    color: black;
+}
+
+.secondHeader{
+    height: 248px;
+    padding: 0px 25px 4px 160px;
+    gap: 752px;
+}
